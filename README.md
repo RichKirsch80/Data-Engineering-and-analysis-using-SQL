@@ -21,5 +21,3 @@ Listed first name, last name, and sex for employees whose first name is "Hercule
 Listed all employees in the Sales department, including their employee number, last name, first name, and department name.
 Listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 In descending order, listed the frequency count of employee last names, i.e., how many employees share each last name.
-
-(Optional) Bonus a Jupyter Notebook of the bonus analysis --currently not completed--.
