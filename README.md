@@ -1,4 +1,4 @@
-# sql-challenge
+Goals - Mars Web Scraping answers the question, what is the latest data and images of Mars according to NASA. Landing page displays the latest Mars news, featured images, Mars facts and Hemispheres images. Also provides a scraping option to ensure the land page is always up to date with the latest data. 
 
 Included files:
 QuickDBD-export.png is an image file of the ERD.
