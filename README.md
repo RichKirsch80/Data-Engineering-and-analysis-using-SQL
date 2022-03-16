@@ -42,6 +42,8 @@ Listed the department of each employee with the following information: employee 
 
 Listed first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
+![image](https://user-images.githubusercontent.com/85321602/158702253-b207a578-0f1e-412d-8efb-8494c986bb44.png)
+
 Listed all employees in the Sales department, including their employee number, last name, first name, and department name.
 
 Listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
