@@ -34,6 +34,8 @@ Listed first name, last name, and hire date for employees who were hired in 1986
 
 Listed the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
+![image](https://user-images.githubusercontent.com/85321602/158701881-6d261ba5-63a3-4b09-8f4a-894a7265b409.png)
+
 Listed the department of each employee with the following information: employee number, last name, first name, and department name.
 
 Listed first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
