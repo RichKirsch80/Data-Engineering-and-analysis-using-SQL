@@ -38,6 +38,8 @@ Listed the manager of each department with the following information: department
 
 Listed the department of each employee with the following information: employee number, last name, first name, and department name.
 
+![image](https://user-images.githubusercontent.com/85321602/158702025-145f8af0-23fe-476d-b9ea-6ec86222a05f.png)
+
 Listed first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
 Listed all employees in the Sales department, including their employee number, last name, first name, and department name.
