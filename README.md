@@ -8,6 +8,7 @@ QuickDBD-export.png is an image file of the ERD.
 create_table a .sql file of the table schemata.
 
 ![image](https://user-images.githubusercontent.com/85321602/158691801-a1f93918-e7fe-4d22-bda7-d29a3dfee6a9.png)
+![image](https://user-images.githubusercontent.com/85321602/158692104-0d4bf86e-8d51-4f6c-b5a3-cd0f94c71d95.png)
 
 queries a .sql file of your queries.
 
