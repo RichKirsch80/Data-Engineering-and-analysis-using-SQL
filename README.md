@@ -23,7 +23,10 @@ Used the information to create a table schema for each of the six CSV files.
 Imported each CSV file into the corresponding SQL table.
 
 Data Analysis on the completed database:
+
 Listed the following details of each employee: employee number, last name, first name, sex, and salary.
+![image](https://user-images.githubusercontent.com/85321602/158701429-a2c51f92-ccde-4c99-ad46-4ca27669a1ba.png)
+
 Listed first name, last name, and hire date for employees who were hired in 1986.
 Listed the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 Listed the department of each employee with the following information: employee number, last name, first name, and department name.
