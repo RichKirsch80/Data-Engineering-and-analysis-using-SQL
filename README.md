@@ -13,6 +13,7 @@ create_table a .sql file of the table schemata.
 queries a .sql file of your queries.
 
 ![image](https://user-images.githubusercontent.com/85321602/158692282-e1e17210-2480-401f-9057-1cf9b6470be4.png)
+![image](https://user-images.githubusercontent.com/85321602/158692436-76d81891-b7de-408e-a381-8d75ad1b4c9c.png)
 
 Data Modeling
 Inspected the CSVs and sketched out an ERD of the tables. 
