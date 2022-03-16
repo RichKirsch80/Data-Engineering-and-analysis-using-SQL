@@ -28,6 +28,7 @@ Listed the following details of each employee: employee number, last name, first
 ![image](https://user-images.githubusercontent.com/85321602/158701429-a2c51f92-ccde-4c99-ad46-4ca27669a1ba.png)
 
 Listed first name, last name, and hire date for employees who were hired in 1986.
+
 ![image](https://user-images.githubusercontent.com/85321602/158701621-49a6ea0e-6cc7-461e-b594-96d662dcd602.png)
 
 Listed the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
