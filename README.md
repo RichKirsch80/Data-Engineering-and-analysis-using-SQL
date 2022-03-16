@@ -54,3 +54,6 @@ Listed all employees in the Sales and Development departments, including their e
 
 In descending order, listed the frequency count of employee last names, i.e., how many employees share each last name.
 
+![image](https://user-images.githubusercontent.com/85321602/158702693-dc64d074-6f24-4d6b-b207-98f7a2ee5753.png)
+
+
