@@ -1,4 +1,4 @@
-
+Goals - Data Engineering and analysis answers employee based questions by creating a database from six separate csv files. QuickDBD displays data type and relationship between each table as well as primary and foreign keys. Created sql files for both the table creation and employee query list. 
 
 Included files:
 QuickDBD-export.png is an image file of the ERD.
